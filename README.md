@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mj-weshh
-- 👀 I’m interested in coding
+- 👀 I’m interested in pyhton
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me https://instagram.com/mj_weshh?igshid=NGExMmI2YTkyZg==
