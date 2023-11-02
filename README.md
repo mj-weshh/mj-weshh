@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @mj-weshh
-- 👀 I’m interested in pyhton
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me
-jowamumjwesh@gmail.com https://instagram.com/mj_weshh?igshid=NGExMmI2YTkyZg==
+# Hello, I'm John
 
-<!---
-mj-weshh/mj-weshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! 😄
+
+- 🚀 I have a strong passion for Python and enjoy diving into the world of code.
+- 🌱 Currently, I'm focused on mastering the exciting field of machine learning with Python.
+- 👯 I'm open to collaboration on interesting and innovative projects. Let's build something amazing together!
+- 📬 You can reach me via email at jowamumjwesh@gmail.com .
+- 📷 Check out my adventures on [Instagram](https://instagram.com/mj_weshh?igshid=NGExMmI2YTkyZg==).
+
+Feel free to explore my repositories and see what I've been working on. If you have any questions, ideas, or just want to say hello, don't hesitate to get in touch. 🌟
+
+Happy coding! 👩‍💻👨‍💻
