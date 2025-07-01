@@ -1,9 +1,9 @@
 <p align="center">
   <!-- Animated capsule-render header -->
-  <img src="./robot.jpg" height=270px alt="header"/>
+  <img src="./robot.jpg" height=350px alt="header"/>
 </p>
 
-<h1 align="center">I’m Waweru Muhura </h1>
+<h1 align="center">Heey👋, I’m Waweru Muhura </h1>
 <p align="center">Tech Entrepreneur @ Matime | Backend & AI in Smart Transport | Nairobi, Kenya</p>
 
 <p align="center">
