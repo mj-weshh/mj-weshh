@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Animated capsule-render header -->
-  <img src="./robot.jpg" alt="header"/>
+  <img src="./robot.jpg" height=70px alt="header"/>
 </p>
 
 <h1 align="center">I’m Waweru Muhura </h1>
