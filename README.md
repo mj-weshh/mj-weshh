@@ -1,14 +1,14 @@
 <p align="center">
   <!-- Animated capsule-render header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%2C+I%27m+Waweru+Muhura+👋&animation=fadeIn" alt="header"/>
+  <img src="https://unsplash.com/photos/yellow-and-black-robot-toy-81rOS-jYoJ8" alt="header"/>
 </p>
 
-<h1 align="center">I’m Waweru Muhura (he/him)</h1>
+<h1 align="center">I’m Waweru Muhura </h1>
 <p align="center">Tech Entrepreneur @ Matime | Backend & AI in Smart Transport | Nairobi, Kenya</p>
 
 <p align="center">
   <!-- Social badges -->
-  <a href="mailto:jowamumijwesh@gmail.com"><img src="https://img.shields.io/badge/Email-jowamumijwesh@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="mailto:wawerumuhura@gmail.com"><img src="https://img.shields.io/badge/Email-wawerumuhura@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/john-waweru-muhura"><img src="https://img.shields.io/badge/LinkedIn-Waweru-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://twitter.com/WeshMj"><img src="https://img.shields.io/badge/X-%40WeshMj-black?style=for-the-badge&logo=twitter" alt="Twitter"></a>
   <a href="https://instagram.com/mj_weshh"><img src="https://img.shields.io/badge/Instagram-mj__weshh-purple?style=for-the-badge&logo=instagram" alt="Instagram"></a>
@@ -41,15 +41,4 @@ Python · FastAPI · TensorFlow · Docker · Kubernetes · PostgreSQL · GitHub 
 ---
 
 ## ⚡ Fun Fact
-I once built a “Snake” to play on my GitHub contribution graph 🐍
-
----
-
-## 📫 Let’s Connect
-- Website: [matime.tech](https://matime.tech)  
-- Resume: [Download PDF](#)  
-- 📌 More links: explore [my projects](https://github.com/mj-weshh?tab=repositories)
-
----
-
-*Created with ❤️ using GitHub Actions — WakaTime, Stats, and capsule‑render for dynamic awesomeness!*
+I build logic puzzles in my spare time😂
