@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Animated capsule-render header -->
-  <img src="https://unsplash.com/photos/yellow-and-black-robot-toy-81rOS-jYoJ8" alt="header"/>
+  <img src="./robot.jpg" alt="header"/>
 </p>
 
 <h1 align="center">I’m Waweru Muhura </h1>
