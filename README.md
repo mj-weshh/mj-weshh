@@ -31,12 +31,12 @@ Python · FastAPI · TensorFlow · Docker · Kubernetes · PostgreSQL · GitHub 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Demo |
-|---|---|---|
-| **Smart‑Transport Backend** | AI‑driven route optimization API (Python · FastAPI · TensorFlow · Docker) | 🔗 [Demo](#) |
-| **airbnb‑clone‑project** | Full‑stack rental app (React + Python backend) | 🔗 [Live](#) |
-| **machine‑learning** | Music genre classifier with gender/age features | |
-| **tic‑tac‑toe** | CLI Python game showcasing clean architecture | |
+| Project | Description |
+|---|---|
+| **Smart‑Transport Backend** | AI‑driven route optimization API (Python · FastAPI · TensorFlow · Docker) |
+| **airbnb‑clone‑project** | Full‑stack rental app (React + Python backend) |
+| **machine‑learning** | Music genre classifier with gender/age features |
+| **tic‑tac‑toe** | CLI Python game showcasing clean architecture |
 
 ---
 
